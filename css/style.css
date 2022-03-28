@@ -158,7 +158,7 @@ p {
 #home-info .info-img {
     float: left;
     width: 50%;
-    background: url('../img/hotel-pool.jpg') no-repeat ;
+    background: url('../img/hotel-pool.jpg') no-repeat center center/cover;
     min-height: 100%;
 }
 
@@ -218,19 +218,20 @@ p {
     padding-bottom: 40px;
 }
 
-#testimonials .testimonial {
-    padding: 20px;
+#testimonials .testimonials {
+    padding: 30px;
     margin-bottom: 40px;
     border-radius: 5px;
     opacity: 0.9;
 }
 
-#testimonials .testimonial img {
+#testimonials .testimonials img {
     width: 100px;
+    height: 100px;
     float: left;
-    margin-right: 20px;
+    margin-right:  20px;
     border-radius: 50%;
-
+    object-fit: cover;
 }
 
 #contact-form .form-group {
