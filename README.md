@@ -2,15 +2,17 @@
 
 **Version 1.0.0**
 
-Sample of Hotel website
+Hotel website code along
+
+## Demo
+
+https://sparkly-panda-9882ca.netlify.app/
+
+![Hotel](./hotel.png)
 
 ------------------------------------------------
 ## Contributors
 
 -Naama G.
 
-------------
-## License & copyright
-
-&copy; Naama G.
 
